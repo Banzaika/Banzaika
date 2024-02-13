@@ -24,7 +24,7 @@
 
 #### Back-end:
 ```json
-["Django", "DRF", "FastAPI", "Flask", "GraphQL", "gRPC"]
+["Django", "DRF", "FastAPI", "Flask", "GraphQL", "gRPC", "Redis", "RabbitMQ"]
 ```
 
 #### Databases:
